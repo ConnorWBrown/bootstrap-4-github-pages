@@ -3,8 +3,7 @@ layout: page
 <!--title: Hi, I'm Connor.-->
 ---
 
-## Hi, I'm Connor.
-# I'm a data-focused researcher, designer, and developer.
+#### I'm a data-focused researcher, designer, and developer.
 
 I like working with people to figure out complex problems.
 
