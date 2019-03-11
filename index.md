@@ -2,7 +2,7 @@
 layout: page
 <!--title: Hi, I'm Connor.-->
 ---
-<!--## Hi, I'm Connor.-->
+## Hi, I'm Connor.
 <br>
 #### I'm a data-focused researcher, designer, and developer.
 <br>
