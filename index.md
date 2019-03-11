@@ -2,9 +2,9 @@
 layout: page
 title: Hi, I'm Connor.
 ---
-
-### I'm a data-focused researcher, designer, and developer.
-
+<br>
+#### I'm a data-focused researcher, designer, and developer.
+<br>
 I like working with people to figure out complex problems.
 
 These crop up frequently in neuroscience research, specifically neuromodulation.
