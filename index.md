@@ -2,7 +2,6 @@
 layout: page
 title: Hi, I'm Connor.
 ---
-<br>
 #### I'm a data-focused researcher, designer, and developer.
 <br>
 I like working with people to figure out complex problems.
