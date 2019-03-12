@@ -6,7 +6,7 @@ permalink: /data_sci/
 #### I'm a data-focused researcher, designer, and developer.
 <br>
 
-Lorem ipsum research lorem ipsum brains are cool!
+Lorem ipsum analysis lorem ipsum data science is cool!
 
 Recently, I’ve been working on [proj], [proj], [proj].
 
