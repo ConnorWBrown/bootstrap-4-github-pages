@@ -1,7 +1,7 @@
 ---
 layout: module
-title: Hi, I'm Connor.
-<!--permalink: /research/-->
+title: Research
+permalink: /research/
 ---
 #### I'm a data-focused researcher, designer, and developer.
 <br>

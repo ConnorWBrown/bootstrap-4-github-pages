@@ -186,14 +186,21 @@
   }
 }
 
-.a {
+.navbar * {
+    text-decoration: none;
+}
+
+a:not(nav-link) {
     text-decoration: underline;
+}
+
+a:hover {
     color: blueviolet;
 }
 
 .pagination {
   a:hover {
-    color: indigo;
+    color: blueviolet;
   }
 }
 
