@@ -7,7 +7,7 @@ title: Hi, I'm Connor.
 <br>
 I like working with people to figure out complex problems.
 
-These crop up frequently in neuroscience research, specifically neuromodulation.
+These crop up frequently in [neuroscience research]({{ site.baseurl }}{ /_site/module_research.md/}), specifically neuromodulation.
 
 The huge variety of approaches we can take through software and hardware development are fascinating, especially advances that help us gain new insights from data regardless of the field and data type.
 
