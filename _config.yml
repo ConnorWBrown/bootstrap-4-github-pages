@@ -31,7 +31,15 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-header_pages: /research/
+header_pages:
+  - page_url: /research/
+    page_title: Research
+  - page_url: /data_sci/
+    page_title: Data Science
+  - page_url: /life/
+    page_title: Life
+  - page_url: /technical/
+    page_title: Technical
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
