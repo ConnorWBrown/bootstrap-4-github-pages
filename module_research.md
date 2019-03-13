@@ -8,6 +8,6 @@ permalink: /research/
 
 Lorem ipsum research lorem ipsum brains are cool!
 
-Recently, I’ve been working on [proj], [proj], [proj].
+Recently, I’ve been working on [proj]( /projects/magnetic_perturbation/ ), [proj], [proj].
 
 [Reach out](mailto:{{ site.email }})--I’m always excited to share interests or pick your brain.

@@ -2,7 +2,7 @@
 // As example you can start by importing the _bootswatch.scss file from one of the
 // theme provided by https://bootswatch.com .
 
-@import url('https://fonts.googleapis.com/css?family=Lora|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro');
 
 // Flatly 4.3.1
 // Bootswatch
@@ -24,6 +24,11 @@
     margin-right: 12.5%;
     
 }
+
+.border-top * {
+    color: $gray-700;
+}
+
 
 // Navbar =======================================================================
 
@@ -56,6 +61,10 @@
 }
 
 // Typography ==================================================================
+.navbar *, h1, h4 {
+    font-family: $font-family-header
+}
+
 
 // Tables ======================================================================
 
