@@ -2,7 +2,6 @@
 layout: page
 title: Hi, I'm Connor.
 ---
-<!--## Hi, I'm Connor.-->
 <h4 class="tagline">
   I'm a data-focused researcher, designer, and developer.
 </h4>
