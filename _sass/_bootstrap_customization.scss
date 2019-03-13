@@ -13,6 +13,18 @@
 //$web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic" !default;
 //@import url($web-font-path);
 
+.tagline {
+    width: 300pt;
+}
+
+.header-img {
+    display: inline-block;
+    width: 100pt;
+    margin-top: 0pt;
+    margin-right: 10%;
+    
+}
+
 // Navbar =======================================================================
 
 .bg-primary {
