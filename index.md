@@ -7,11 +7,14 @@ title: Hi, I'm Connor.
 </h4>
 
 <br>
+
 I like working with people to figure out complex problems.
 
 These crop up frequently in [neuroscience research]( /research/ ), specifically neuromodulation.
 
 The huge variety of approaches we can take through [software and hardware development]( /technical/ ) are fascinating, especially advances that help us gain [new insights from data]( /data_sci/ ) regardless of the field and data type.
+
+I studied Cognitive Science, Electrical Engineering, and Computer Science at UC Berkeley.
 
 My interests also [extend to a love of]( /life/ ) martial arts, rock climbing, juggling, and reading.
 
