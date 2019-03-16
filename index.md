@@ -18,6 +18,9 @@ I studied Cognitive Science, Electrical Engineering, and Computer Science at UC 
 
 My interests also [extend to a love of]( /life/ ) martial arts, rock climbing, juggling, and reading.
 
-Recently, I’ve been working on designing, building, programming, and testing a novel [neurostimulation device]( /projects/magnetic_perturbation/ ) with Professor Rich Ivry and the UC Berkeley Brain Imaging Center. I've also been 
+Recently, I’ve been working on designing, building, programming, and testing a novel [neurostimulation device]( /projects/magnetic_perturbation/ ) with Professor Rich Ivry and the UC Berkeley Brain Imaging Center. 
+
+<!--I've also been-->
 
 [Reach out](mailto:{{ site.email }})--I’m always excited to share interests or pick your brain.
+<!--/mnt/c/users/connor/documents/github/connorwbrown.github.io/ bundle exec jekyll serve-->
