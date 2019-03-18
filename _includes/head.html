@@ -2,21 +2,30 @@
  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link type="text/css" rel="stylesheet" href="{{ baseurl }}/assets/javascript/lightslider/dist/css/lightslider.css" />
+  {%- feed_meta -%}
+  <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
-  {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
-  <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
-  <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
-  <link type="text/css" rel="stylesheet" href="{{ baseurl }}/assets/javascript/lightslider/dist/css/lightslider.css" />
+
   <script src="{{ baseurl }}/assets/javascript/lightslider/dist/js/lightslider.js"></script>
+  
+  <script type="text/javascript">
+      var elm=document.getElementsByTagName("html")[0];
+      elm.style.display="none";
+      document.addEventListener("DOMContentLoaded",function(event) { elm.style.display="block" });
+  </script>
+  
   <script>
     $( document ).ready(function(){
+//        $('body').hide();
         $('#lightSlider').lightSlider({
             item:3,
             loop:true,
@@ -40,10 +49,10 @@
                 }
             ]
         });
-//        onSliderLoad: function() {
-//            $('#lightSlider').removeClass('cS-hidden');
-//        }
-        $('body').css('display', 'none').fadeIn(80);
+//      $(window).on('load', function() {
+//        $('body').show();
+//      $('body').css('display', 'none').fadeIn(80);
+//      });
     });
   </script>
 
