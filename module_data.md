@@ -1,6 +1,7 @@
 ---
 layout: module
 title: Data Science
+mod_pages: [1, 2, 3, 4]
 permalink: /data_sci/
 ---
 #### I'm a data-focused researcher, designer, and developer.

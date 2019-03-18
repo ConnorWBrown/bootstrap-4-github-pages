@@ -12,22 +12,35 @@ layout: default
   </section>
   <section style='margin-top: 75pt'>
     <ul id="lightSlider">
+
+      {% assign all_projects = site.proj_pages %}
+        {% for page_num in page.mod_pages %}
+        
+          <li class="nav-item">
+            <h4><a href="{{ all_projects[page_num].page_url }}"> {{ all_projects[page_num].page_title }} </a></h4>
+            <p> {{ all_projects[page_num].description }} </p>
+          </li>
+        
+        {% endfor -%}
+        
       <li>
-          <h3>First Slide</h3>
-          <p>Lorem ipsum Cupidatat quis pariatur anim.</p>
+          <h4> First Slide </h4>
+          <p>Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.</p>
+<!--
       </li>
       <li>
-          <h3>Second Slide</h3>
+          <h4>Second Slide</h4>
           <p>Lorem ipsum Excepteur amet adipisicing fugiat velit nisi.</p>
       </li>
       <li>
-          <h3>Third Slide</h3>
+          <h4>Third Slide</h4>
           <p>Lorem ipsum Cupidatat quis pariatur anim.</p>
       </li>
       <li>
-          <h3>Fourth Slide</h3>
+          <h4>Fourth Slide</h4>
           <p>Lorem ipsum Excepteur amet adipisicing fugiat velit nisi.</p>
       </li>
+-->
     </ul>
   </section>
 

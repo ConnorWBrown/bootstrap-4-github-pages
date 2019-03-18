@@ -1,12 +1,9 @@
 ---
 layout: module
 title: Research
+mod_pages: [0, 1, 2, 3]
 permalink: /research/
-projects:
-  - page_url: /projects/mp.md
-    page_title: Neural Stimulation
-  - page_url: /research/
-    page_title: Research
+
 ---
 #### I'm a data-focused researcher, designer, and developer.
 <br>

@@ -42,6 +42,27 @@ header_pages:
     page_title: Data Science
   - page_url: /life/
     page_title: Life
+    
+proj_pages:
+   - page_url: /projects/magnetic_perturbation/
+     page_title: "Neural Stimulation"
+     description: words words words
+
+   - page_url: /projects/magnetic_perturbation/
+     page_title: proj2
+     description: proj2 desc
+
+   - page_url: /projects/magnetic_perturbation/
+     page_title: proj3
+     description: proj3 desc
+
+   - page_url: /projects/magnetic_perturbation/
+     page_title: proj4
+     description: proj4 desc words words words
+
+   - page_url: /projects/magnetic_perturbation/
+     page_title: proj5
+     description: proj5 words words words
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,6 +1,7 @@
 ---
 layout: module
 title: Technical
+mod_pages: [1, 2, 3, 4]
 permalink: /technical/
 ---
 #### I'm a data-focused researcher, designer, and developer.

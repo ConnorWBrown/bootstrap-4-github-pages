@@ -1,6 +1,7 @@
 ---
 layout: module
 title: Life
+mod_pages: [1, 2, 3, 4]
 permalink: /life/
 ---
 #### I'm a data-focused researcher, designer, and developer.
