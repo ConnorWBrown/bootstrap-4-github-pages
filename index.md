@@ -18,7 +18,7 @@ I studied Cognitive Science, Electrical Engineering, and Computer Science at UC 
 
 My interests also [extend to a love of]( /life/ ) martial arts, rock climbing, juggling, and reading.
 
-Recently, I’ve been working on designing, building, programming, and testing a novel [neurostimulation device]( /projects/magnetic_perturbation/ ) with Professor Rich Ivry and the UC Berkeley Brain Imaging Center. 
+Recently, I’ve been working on designing, building, programming, and testing a novel [neurostimulation device]( /projects/magnetic_perturbation/ ) with Professor Rich Ivry and the UC Berkeley Brain Imaging Center as a project manager and R&D developer.
 
 <!--I've also been-->
 
