@@ -74,6 +74,24 @@
 }
 /** /!!! End of core css Should not edit !!!/**/
 
+/*My Edits*/
+.lSSlideWrapper .lslide {
+  height: 150px;
+  background-color: pink;
+  border: .5px none black;
+  border-radius: 5px;
+  padding: 10px;
+/*
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right 5px;
+*/
+}
+.lSSlideWrapper a {
+  color: black; 
+}
+
 /* Pager */
 .lSSlideOuter .lSPager.lSpg {
     margin: 10px 0 0;
@@ -139,7 +157,9 @@
 }
 .lSSlideOuter .lSPager.lSGallery img {
     display: block;
-    height: auto;
+/*    height: auto;*/
+    background-color: purple;
+    height: 300px;
     max-width: 100%;
 }
 .lSSlideOuter .lSPager.lSGallery:before, .lSSlideOuter .lSPager.lSGallery:after {

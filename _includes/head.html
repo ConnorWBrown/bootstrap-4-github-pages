@@ -24,9 +24,14 @@
   </script>
   
   <script>
-    $( document ).ready(function(){
-//        $('body').hide();
-        $('#lightSlider').lightSlider({
+  $( document ).ready(function(){
+//      $('body').hide();
+//    
+//      $(window).on('load', function() {
+//        $('body').show();
+//        $('body').css('display', 'none').fadeIn(80);
+//      });
+      $('#lightSlider').lightSlider({
             item:3,
             loop:true,
             slideMove:1,
@@ -49,11 +54,34 @@
                 }
             ]
         });
-//      $(window).on('load', function() {
-//        $('body').show();
-//      $('body').css('display', 'none').fadeIn(80);
-//      });
+    
     });
+
+//    $( document ).ready(function(){
+//        $('#lightSlider').lightSlider({
+//            item:3,
+//            loop:true,
+//            slideMove:1,
+//            easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
+//            speed:400,
+//            gallery:false,
+//            
+//            responsive : [
+//                {
+//                    breakpoint:550,
+//                    settings: {
+//                        item:2,
+//                      }
+//                },
+//                {
+//                    breakpoint:400,
+//                    settings: {
+//                        item:1,
+//                      }
+//                }
+//            ]
+//        });
+//    });
   </script>
 
 
