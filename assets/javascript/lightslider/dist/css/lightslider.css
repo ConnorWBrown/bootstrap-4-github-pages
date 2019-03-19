@@ -74,6 +74,13 @@
 }
 /** /!!! End of core css Should not edit !!!/**/
 
+
+
+
+
+
+
+
 /*My Edits*/
 .lSSlideWrapper .lslide {
   height: 150px;
@@ -81,15 +88,12 @@
   border: .5px none;
   border-radius: 5px;
   padding: 10px;
-/*
-  padding-top: 5px;
-  padding-left: 5px;
-  padding-bottom: 5px;
-  padding-right 5px;
-*/
 }
 .lSSlideWrapper a {
   color: black; 
+}
+.lSSlideWrapper p {
+  text-decoration: none; 
 }
 
 /* Pager */
