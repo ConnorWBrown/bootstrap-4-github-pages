@@ -16,29 +16,16 @@ layout: default
       {% assign all_projects = site.proj_pages %}
         {% for page_num in page.mod_pages %}
         
-          <li class="nav-item">
-            <h5><a href="{{ all_projects[page_num].page_url }}"> {{ all_projects[page_num].page_title }} </a></h5>
-            <p> {{ all_projects[page_num].description }} </p>
-          </li>
+          <a href="{{ all_projects[page_num].page_url }}">
+            <li class="nav-item">
+              <h5> {{ all_projects[page_num].page_title }} </h5>
+              <p> {{ all_projects[page_num].description }} </p>
+            </li>
+          </a>
         
         {% endfor -%}
-<!--        
-      <li>
-          <h4> First Slide </h4>
-          <p>Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.Lorem ipsum Cupidatat quis pariatur anim.</p>
-      </li>
-      <li>
-          <h4>Second Slide</h4>
-          <p>Lorem ipsum Excepteur amet adipisicing fugiat velit nisi.</p>
-      </li>
-      <li>
-          <h4>Third Slide</h4>
-          <p>Lorem ipsum Cupidatat quis pariatur anim.</p>
-      </li>
-      <li>
-          <h4>Fourth Slide</h4>
-          <p>Lorem ipsum Excepteur amet adipisicing fugiat velit nisi.</p>
-      </li>
+<!--
+  <h5><a href="{{ all_projects[page_num].page_url }}"> {{ all_projects[page_num].page_title }} </a></h5>
 -->
     </ul>
   </section>
