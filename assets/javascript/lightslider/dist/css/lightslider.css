@@ -93,7 +93,7 @@
   color: black; 
 }
 .lSSlideWrapper p {
-  text-decoration: none; 
+  text-decoration: none !important;
 }
 
 /* Pager */
