@@ -34,12 +34,12 @@ plugins:
 # A list of the pages to display in the navigation bar
 # Technical vs CompSci?
 header_pages:
-  - page_url: /technical/
-    page_title: Technical
-  - page_url: /research/
-    page_title: Research
   - page_url: /data_sci/
     page_title: Data Science
+  - page_url: /research/
+    page_title: Research
+  - page_url: /technical/
+    page_title: Technical
   - page_url: /life/
     page_title: Life
     
