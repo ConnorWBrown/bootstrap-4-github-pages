@@ -4,7 +4,7 @@ title: Technical
 mod_pages: [1, 2, 3, 4]
 permalink: /technical/
 ---
-#### I'm a data-focused researcher, designer, and developer.
+<!--#### I'm a data-focused researcher, designer, and developer.-->
 <br>
 
 I find the challenge of software development fascinating, solving abstract problems and implementing them on the ground, fully functional. I studied Electrical Engineering and Computer Science at UC Berkeley, gaining fluency in programming, circuits, and algorithm design with an emphasis on data scence, user interfacing, and artificial intelligence. I thrive in environments where I can bridge the gap between the technical and the day-to-day, providing insight to those with less-technical backgrounds and turning their ideas into concrete implementations.

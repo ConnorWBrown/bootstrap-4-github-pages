@@ -4,7 +4,7 @@ title: Data Science
 mod_pages: [1, 2, 3, 4]
 permalink: /data_sci/
 ---
-#### I'm a data-focused researcher, designer, and developer.
+<!--#### I'm a data-focused researcher, designer, and developer.-->
 <br>
 
 We have massive amounts of data flowing around us all the time, and our generation is uniquely poised to take advantage of this deluge with the computing and statistical power at our fingertips. I am eager to apply my research background and technical experience to a tangible, real-world environment, and dig in. I have worked in several positions requiring hands-on data processing, analytics, and software development/testing using Python and SQL (including packages such as PANDAS, TensorFlow, matplotlib, and NumPy), and taken significant coursework in Data Science, Python, Java, frontend/JS, SQL, and more.

@@ -4,7 +4,7 @@ title: Life
 mod_pages: [1, 2, 3, 4]
 permalink: /life/
 ---
-#### I'm a data-focused researcher, designer, and developer.
+<!--#### I'm a data-focused researcher, designer, and developer.-->
 <br>
 
 Are you on this page looking for purely professional qualifications? None will be found here!

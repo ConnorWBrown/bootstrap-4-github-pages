@@ -5,7 +5,7 @@ mod_pages: [0, 1, 2, 3]
 permalink: /research/
 
 ---
-#### I'm a data-focused researcher, designer, and developer.
+<!--#### I'm a data-focused researcher, designer, and developer.-->
 <br>
 
 Analogous to teaching-a-man-to-fish, my talents and skills lend themselves to enabling others to conduct research. I am interested in the design and improvement of neuroscience methods, therefore enabling others’ research to be more effective. I studied Cognitive Science, Electrical Engineering, and Computer Science at UC Berkeley, combining my interest in the three and using these skills to pursue my interest in neuroscience methods research.
