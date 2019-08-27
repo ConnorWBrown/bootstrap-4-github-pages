@@ -15,4 +15,3 @@ I have worked in the UC Berkeley Cognition and Action Lab for the last two years
 I’ve also worked on modeling activity in the movement-ipsilateral motor cortex, and on time perception brain stimulation research.
 
 [Reach out](mailto:{{ site.email }})--I’m always excited to share interests or pick your brain.
-
